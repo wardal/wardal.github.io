@@ -33,7 +33,7 @@ p.enlarge span { color: #000 }
 .first h2 { font-style: italic; }
 .last { border-bottom: 0 }
 .name {text-align: center;}
-.radius {-webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;}
+.radius {-webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; width: 150px;}
 .profile {margin-top:15px;}
 .info {float: left;}
 
